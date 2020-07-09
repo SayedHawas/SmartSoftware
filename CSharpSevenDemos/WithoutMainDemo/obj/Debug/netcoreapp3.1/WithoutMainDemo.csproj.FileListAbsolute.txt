@@ -1,0 +1,4 @@
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\WithoutMainDemo\obj\Debug\netcoreapp3.1\WithoutMainDemo.csprojAssemblyReference.cache
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\WithoutMainDemo\obj\Debug\netcoreapp3.1\WithoutMainDemo.csproj.CoreCompileInputs.cache
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\WithoutMainDemo\obj\Debug\netcoreapp3.1\WithoutMainDemo.AssemblyInfoInputs.cache
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\WithoutMainDemo\obj\Debug\netcoreapp3.1\WithoutMainDemo.AssemblyInfo.cs

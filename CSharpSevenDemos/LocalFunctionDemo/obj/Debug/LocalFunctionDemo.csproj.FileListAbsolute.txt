@@ -1,0 +1,6 @@
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\LocalFunctionDemo\bin\Debug\LocalFunctionDemo.exe.config
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\LocalFunctionDemo\bin\Debug\LocalFunctionDemo.exe
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\LocalFunctionDemo\bin\Debug\LocalFunctionDemo.pdb
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\LocalFunctionDemo\obj\Debug\LocalFunctionDemo.csproj.CoreCompileInputs.cache
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\LocalFunctionDemo\obj\Debug\LocalFunctionDemo.exe
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\LocalFunctionDemo\obj\Debug\LocalFunctionDemo.pdb

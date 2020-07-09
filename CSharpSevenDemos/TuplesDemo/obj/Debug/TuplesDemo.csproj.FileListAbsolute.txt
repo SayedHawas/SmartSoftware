@@ -1,0 +1,7 @@
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\TuplesDemo\bin\Debug\TuplesDemo.exe.config
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\TuplesDemo\bin\Debug\TuplesDemo.exe
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\TuplesDemo\bin\Debug\TuplesDemo.pdb
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\TuplesDemo\obj\Debug\TuplesDemo.csprojAssemblyReference.cache
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\TuplesDemo\obj\Debug\TuplesDemo.csproj.CoreCompileInputs.cache
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\TuplesDemo\obj\Debug\TuplesDemo.exe
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\TuplesDemo\obj\Debug\TuplesDemo.pdb

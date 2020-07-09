@@ -1,0 +1,7 @@
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\RefReturnsDemo\bin\Debug\RefReturnsDemo.exe.config
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\RefReturnsDemo\bin\Debug\RefReturnsDemo.exe
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\RefReturnsDemo\bin\Debug\RefReturnsDemo.pdb
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\RefReturnsDemo\obj\Debug\RefReturnsDemo.csprojAssemblyReference.cache
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\RefReturnsDemo\obj\Debug\RefReturnsDemo.csproj.CoreCompileInputs.cache
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\RefReturnsDemo\obj\Debug\RefReturnsDemo.exe
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\RefReturnsDemo\obj\Debug\RefReturnsDemo.pdb

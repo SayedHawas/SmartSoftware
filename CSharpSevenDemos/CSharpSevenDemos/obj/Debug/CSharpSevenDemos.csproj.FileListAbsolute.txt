@@ -1,0 +1,7 @@
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\CSharpSevenDemos\bin\Debug\CSharpSevenDemos.exe.config
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\CSharpSevenDemos\bin\Debug\CSharpSevenDemos.exe
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\CSharpSevenDemos\bin\Debug\CSharpSevenDemos.pdb
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\CSharpSevenDemos\obj\Debug\CSharpSevenDemos.csprojAssemblyReference.cache
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\CSharpSevenDemos\obj\Debug\CSharpSevenDemos.csproj.CoreCompileInputs.cache
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\CSharpSevenDemos\obj\Debug\CSharpSevenDemos.exe
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\CSharpSevenDemos\obj\Debug\CSharpSevenDemos.pdb

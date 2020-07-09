@@ -1,0 +1,6 @@
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\PatternMatchingDemo\bin\Debug\PatternMatchingDemo.exe.config
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\PatternMatchingDemo\bin\Debug\PatternMatchingDemo.exe
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\PatternMatchingDemo\bin\Debug\PatternMatchingDemo.pdb
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.csproj.CoreCompileInputs.cache
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.exe
+E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.pdb
