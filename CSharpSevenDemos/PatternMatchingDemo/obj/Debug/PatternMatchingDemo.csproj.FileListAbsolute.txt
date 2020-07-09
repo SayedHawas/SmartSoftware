@@ -4,3 +4,9 @@ E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\PatternMatchingDemo\bi
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.csproj.CoreCompileInputs.cache
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.exe
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.pdb
+F:\smart Repos\CSharpSevenDemos\PatternMatchingDemo\bin\Debug\PatternMatchingDemo.exe.config
+F:\smart Repos\CSharpSevenDemos\PatternMatchingDemo\bin\Debug\PatternMatchingDemo.exe
+F:\smart Repos\CSharpSevenDemos\PatternMatchingDemo\bin\Debug\PatternMatchingDemo.pdb
+F:\smart Repos\CSharpSevenDemos\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.csproj.CoreCompileInputs.cache
+F:\smart Repos\CSharpSevenDemos\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.exe
+F:\smart Repos\CSharpSevenDemos\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.pdb
