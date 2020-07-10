@@ -10,3 +10,4 @@ F:\smart Repos\CSharpSevenDemos\PatternMatchingDemo\bin\Debug\PatternMatchingDem
 F:\smart Repos\CSharpSevenDemos\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.csproj.CoreCompileInputs.cache
 F:\smart Repos\CSharpSevenDemos\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.exe
 F:\smart Repos\CSharpSevenDemos\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.pdb
+F:\smart Repos\CSharpSevenDemos\PatternMatchingDemo\obj\Debug\PatternMatchingDemo.csprojAssemblyReference.cache

@@ -5,3 +5,10 @@ E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\RefReturnsDemo\obj\Deb
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\RefReturnsDemo\obj\Debug\RefReturnsDemo.csproj.CoreCompileInputs.cache
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\RefReturnsDemo\obj\Debug\RefReturnsDemo.exe
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\RefReturnsDemo\obj\Debug\RefReturnsDemo.pdb
+F:\smart Repos\CSharpSevenDemos\RefReturnsDemo\bin\Debug\RefReturnsDemo.exe.config
+F:\smart Repos\CSharpSevenDemos\RefReturnsDemo\bin\Debug\RefReturnsDemo.exe
+F:\smart Repos\CSharpSevenDemos\RefReturnsDemo\bin\Debug\RefReturnsDemo.pdb
+F:\smart Repos\CSharpSevenDemos\RefReturnsDemo\obj\Debug\RefReturnsDemo.csprojAssemblyReference.cache
+F:\smart Repos\CSharpSevenDemos\RefReturnsDemo\obj\Debug\RefReturnsDemo.csproj.CoreCompileInputs.cache
+F:\smart Repos\CSharpSevenDemos\RefReturnsDemo\obj\Debug\RefReturnsDemo.exe
+F:\smart Repos\CSharpSevenDemos\RefReturnsDemo\obj\Debug\RefReturnsDemo.pdb

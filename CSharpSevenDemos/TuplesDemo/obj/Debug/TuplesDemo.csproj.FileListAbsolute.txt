@@ -5,3 +5,10 @@ E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\TuplesDemo\obj\Debug\T
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\TuplesDemo\obj\Debug\TuplesDemo.csproj.CoreCompileInputs.cache
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\TuplesDemo\obj\Debug\TuplesDemo.exe
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\TuplesDemo\obj\Debug\TuplesDemo.pdb
+F:\smart Repos\CSharpSevenDemos\TuplesDemo\bin\Debug\TuplesDemo.exe.config
+F:\smart Repos\CSharpSevenDemos\TuplesDemo\bin\Debug\TuplesDemo.exe
+F:\smart Repos\CSharpSevenDemos\TuplesDemo\bin\Debug\TuplesDemo.pdb
+F:\smart Repos\CSharpSevenDemos\TuplesDemo\obj\Debug\TuplesDemo.csprojAssemblyReference.cache
+F:\smart Repos\CSharpSevenDemos\TuplesDemo\obj\Debug\TuplesDemo.csproj.CoreCompileInputs.cache
+F:\smart Repos\CSharpSevenDemos\TuplesDemo\obj\Debug\TuplesDemo.exe
+F:\smart Repos\CSharpSevenDemos\TuplesDemo\obj\Debug\TuplesDemo.pdb

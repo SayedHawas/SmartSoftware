@@ -4,3 +4,10 @@ E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\LocalFunctionDemo\bin\
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\LocalFunctionDemo\obj\Debug\LocalFunctionDemo.csproj.CoreCompileInputs.cache
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\LocalFunctionDemo\obj\Debug\LocalFunctionDemo.exe
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\LocalFunctionDemo\obj\Debug\LocalFunctionDemo.pdb
+F:\smart Repos\CSharpSevenDemos\LocalFunctionDemo\bin\Debug\LocalFunctionDemo.exe.config
+F:\smart Repos\CSharpSevenDemos\LocalFunctionDemo\bin\Debug\LocalFunctionDemo.exe
+F:\smart Repos\CSharpSevenDemos\LocalFunctionDemo\bin\Debug\LocalFunctionDemo.pdb
+F:\smart Repos\CSharpSevenDemos\LocalFunctionDemo\obj\Debug\LocalFunctionDemo.csprojAssemblyReference.cache
+F:\smart Repos\CSharpSevenDemos\LocalFunctionDemo\obj\Debug\LocalFunctionDemo.csproj.CoreCompileInputs.cache
+F:\smart Repos\CSharpSevenDemos\LocalFunctionDemo\obj\Debug\LocalFunctionDemo.exe
+F:\smart Repos\CSharpSevenDemos\LocalFunctionDemo\obj\Debug\LocalFunctionDemo.pdb

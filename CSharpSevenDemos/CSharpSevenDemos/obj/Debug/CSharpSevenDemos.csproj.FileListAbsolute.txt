@@ -5,3 +5,10 @@ E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\CSharpSevenDemos\obj\D
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\CSharpSevenDemos\obj\Debug\CSharpSevenDemos.csproj.CoreCompileInputs.cache
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\CSharpSevenDemos\obj\Debug\CSharpSevenDemos.exe
 E:\Smart Sayed Hawas\00 C-Sharp 7, 8 , 9\CSharpSevenDemos\CSharpSevenDemos\obj\Debug\CSharpSevenDemos.pdb
+F:\smart Repos\CSharpSevenDemos\CSharpSevenDemos\bin\Debug\CSharpSevenDemos.exe.config
+F:\smart Repos\CSharpSevenDemos\CSharpSevenDemos\bin\Debug\CSharpSevenDemos.exe
+F:\smart Repos\CSharpSevenDemos\CSharpSevenDemos\bin\Debug\CSharpSevenDemos.pdb
+F:\smart Repos\CSharpSevenDemos\CSharpSevenDemos\obj\Debug\CSharpSevenDemos.csprojAssemblyReference.cache
+F:\smart Repos\CSharpSevenDemos\CSharpSevenDemos\obj\Debug\CSharpSevenDemos.csproj.CoreCompileInputs.cache
+F:\smart Repos\CSharpSevenDemos\CSharpSevenDemos\obj\Debug\CSharpSevenDemos.exe
+F:\smart Repos\CSharpSevenDemos\CSharpSevenDemos\obj\Debug\CSharpSevenDemos.pdb

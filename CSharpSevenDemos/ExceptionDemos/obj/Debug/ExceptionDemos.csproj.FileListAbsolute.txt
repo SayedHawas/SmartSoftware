@@ -1,0 +1,7 @@
+F:\smart Repos\CSharpSevenDemos\ExceptionDemos\bin\Debug\ExceptionDemos.exe.config
+F:\smart Repos\CSharpSevenDemos\ExceptionDemos\bin\Debug\ExceptionDemos.exe
+F:\smart Repos\CSharpSevenDemos\ExceptionDemos\bin\Debug\ExceptionDemos.pdb
+F:\smart Repos\CSharpSevenDemos\ExceptionDemos\obj\Debug\ExceptionDemos.csprojAssemblyReference.cache
+F:\smart Repos\CSharpSevenDemos\ExceptionDemos\obj\Debug\ExceptionDemos.csproj.CoreCompileInputs.cache
+F:\smart Repos\CSharpSevenDemos\ExceptionDemos\obj\Debug\ExceptionDemos.exe
+F:\smart Repos\CSharpSevenDemos\ExceptionDemos\obj\Debug\ExceptionDemos.pdb
